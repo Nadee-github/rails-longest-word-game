@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+ .card{
+  padding: 10px 40px;
+ }
+.letters{
+  display: flex;
+}
+.letter{
+  background-color: rgb(107, 166, 233);
+  padding: 10px 15px;
+  margin-right: 15px;
+  color: white;
+  box-shadow: 1px 1px 1px 1px rgba(177, 175, 175, 0.5);
+}
+.insert{
+  width: 700px;
+ }
